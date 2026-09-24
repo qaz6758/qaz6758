@@ -1,16 +1,23 @@
-## Hi there 👋
+### theyole
 
-<!--
-**qaz6758/qaz6758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Crafting digital experiences & exploring modern tech from scratch.
 
-Here are some ideas to get you started:
+``text
+focus    : Fullstack / Frontend Architecture / Minimal Design
+building : [my-blog](https://github.com/qaz6758/my-blog)
+reading  : System Architecture, UI/UX & Web Performance
+``
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Projects & Notes
+
+- **[my-blog](https://github.com/qaz6758/my-blog)** — Personal digital garden, essays, and technical notes.
+- **[zero-to-tech](https://github.com/qaz6758/zero-to-tech)** — Practical exploration from fundamentals to modern engineering.
+
+---
+
+<p align="left">
+  <a href="https://vinceou.site">Website</a> &nbsp;/&nbsp; 
+  <a href="https://github.com/qaz6758/my-blog">Blog</a>
+</p>
