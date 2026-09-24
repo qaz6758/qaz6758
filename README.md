@@ -2,11 +2,11 @@
 
 > Crafting digital experiences & exploring modern tech from scratch.
 
-``text
+```text
 focus    : Fullstack / Frontend Architecture / Minimal Design
 building : [my-blog](https://github.com/qaz6758/my-blog)
 reading  : System Architecture, UI/UX & Web Performance
-``
+```
 
 ---
 
